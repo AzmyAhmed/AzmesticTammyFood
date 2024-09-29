@@ -173,11 +173,12 @@ p {
   width: 253px;
   height: 320px;
   font-size: 14px;
-  border: 1px solid rgb(219, 219, 219);
+  border: 1px solid rgb(240, 240, 240);
   border-radius: 8px;
   margin-bottom: 20px;
-  margin-right: 10px;
+  margin-right: 25px;
   position: relative;
+
 }
 /* Group 1000001967 */
 
@@ -244,9 +245,9 @@ footer {
   padding: 90px;
 }
 footer h1,
-h2,
-a,
-p {
+footer h2,
+footer a,
+footer p {
   color: white;
 }
 footer .wrapper {
@@ -264,7 +265,7 @@ footer form input {
 }
 .form-container a {
   position: absolute;
-  right: 47px;
+  right: 93px;
   bottom: 3px;
   background-color: var(--orange-color);
   border-radius: 5px;
